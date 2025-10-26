@@ -540,8 +540,8 @@ img {
 
  .video .container {
     background: url('../images/video-preview-mobile.png') no-repeat center bottom;
-    background-size: 600px 500px;
-    background-position: center bottom;
+    background-size: 370px 500px;
+    background-position: center;
     gap: 100px;
     height: 500px;
     width: 100%;
